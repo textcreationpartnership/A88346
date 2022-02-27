@@ -1,0 +1,783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of the Court of Aldermen, deputies, Common-Council, and new lieutenancy, of the City of London, with the name of every ward the Common-councilmen belong to, for the year, 1690</title>
+            <title>Lists. 1690</title>
+            <author>Corporation of London (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88346</idno>
+            <idno type="STC">Wing L2466A</idno>
+            <idno type="STC">ESTC R231585</idno>
+            <idno type="EEBO-CITATION">99899968</idno>
+            <idno type="PROQUEST">99899968</idno>
+            <idno type="VID">137086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2486:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of the Court of Aldermen, deputies, Common-Council, and new lieutenancy, of the City of London, with the name of every ward the Common-councilmen belong to, for the year, 1690</title>
+                  <title>Lists. 1690</title>
+                  <author>Corporation of London (England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.C. for Joseph Harrison,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:137086:1" rendition="simple:additions"/>
+            <head>A Liſt of the Names of the Court of Aldermen,
+Deputies, Common-Council, and New Lieutenancy, of the City of London, with the Name of
+every Ward the Common-Councilmen belong to, for the Year, 1690.</head>
+            <div type="part">
+               <head>The Names of the Aldermen, and the re<g ref="char:EOLhyphen"/>ſpecttive
+Wards they belong to, viz.</head>
+               <list>
+                  <item>
+                     <hi>SIR</hi> Thomas Pilkington, Lord Mayor. <hi>Vintrey,</hi> Ward.</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Allen—<hi>Bridge without.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Lawrence—<hi>Queenhithe.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Clayton—<hi>Cheape</hi> Ward.</item>
+                  <item>Sir <hi>Patience Ward</hi>—Farr. within.</item>
+                  <item>
+                     <hi>Sir</hi> John Moore—<hi>Walbrocke.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Prichard—<hi>Broadſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Jeffery—<hi>Cordweynor.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> George Treby, Recorder.</item>
+                  <item>
+                     <hi>Sir</hi> Jonathan Raymond—<hi>Biſhipſgate.</hi>
+                  </item>
+                  <item>Sir <hi>Peter Daniell</hi>—Bridge within.</item>
+                  <item>
+                     <hi>Sir</hi> Peter Rich—<hi>Alderſgate.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Stampe—<hi>Cripplegate.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Samuel Daſhwood—<hi>Algate</hi> Ward.</item>
+                  <item>
+                     <hi>Sir</hi> Benjamin Thorowgood,—<hi>Limeſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Kenſey—<hi>Dowgate</hi> Ward.</item>
+                  <item>
+                     <hi>Sir</hi> William Aſhurſt—<hi>Billingſgate.</hi>
+                  </item>
+                  <item>Sir <hi>William Goſlin</hi>—Caſtle-Baynards,</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Lane—<hi>Candlewick.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Fleet—<hi>Langborne.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Humphry Edwin—<hi>Tower</hi> Ward.</item>
+                  <item>
+                     <hi>Sir</hi> John Parſons—<hi>Baſſiſhaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Edward Clarke—<hi>Breadstreet.</hi>
+                  </item>
+                  <item>Sir <hi>Francis Child,</hi>—Farr. without.</item>
+                  <item>John Wildman <hi>
+                        <abbr>Eſq</abbr>—Portſoken</hi> Ward.</item>
+                  <item>
+                     <hi>Sir</hi> Chriſtopher Leithelier—<hi>Colmanstreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Houblon.—<hi>Cornhill</hi> Ward.</item>
+               </list>
+               <p>In all 26.</p>
+            </div>
+            <div type="part">
+               <head>The Names of the Deputies and Common-Councilmen,
+of the City of London.</head>
+               <list>
+                  <head>Alderſgate Within 4.</head>
+                  <item>PEter Floyer, <hi>Deputy.</hi>
+                  </item>
+                  <item>John Cooper,</item>
+                  <item>Lawrence Coles,</item>
+                  <item>Stephen Hamms,</item>
+               </list>
+               <list>
+                  <head>Without 4.</head>
+                  <item>Robert Littlebury,</item>
+                  <item>Daniel Wray,</item>
+                  <item>Joſeph Wright,</item>
+                  <item>Thomas Haynes.</item>
+               </list>
+               <list>
+                  <head>Aldgate 6.</head>
+                  <item>Thomas Gardner, <hi>Deputy.</hi>
+                  </item>
+                  <item>John Hamond,</item>
+                  <item>Obediah Sedgwick,</item>
+                  <item>James Hudſon,</item>
+                  <item>Samuel Swinock,</item>
+                  <item>John Newton.</item>
+               </list>
+               <list>
+                  <head>Baſſiſhaw 4.</head>
+                  <item>John Kent, <hi>Deputy.</hi>
+                  </item>
+                  <item>John Knapp,</item>
+                  <item>William Fawkner,</item>
+                  <item>John Cooke.</item>
+               </list>
+               <list>
+                  <head>Billingſgate 10</head>
+                  <item>William Gunn, <hi>Deputy.</hi>
+                  </item>
+                  <item>Abraham Jaggard,</item>
+                  <item>John Carcy,</item>
+                  <item>John Stacy,</item>
+                  <item>Richard Joyce,</item>
+                  <item>William Cole,</item>
+                  <item>Richard Holder,</item>
+                  <item>Daniel Wigfall,</item>
+                  <item>William Fownes,</item>
+                  <item>Thomas Cuddon.</item>
+               </list>
+               <list>
+                  <head>Breadſtreet 12.</head>
+                  <item>Henry Clarke, <hi>Deputy.</hi>
+                  </item>
+                  <item>Richard Briſtow,</item>
+                  <item>Thomas Tuckfeild,</item>
+                  <item>John Criſpe <hi>
+                        <abbr>Eſq</abbr>
+                     </hi>
+                  </item>
+                  <item>Robert Knight,</item>
+                  <item>John Billers,</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Halton,</item>
+                  <item>James Cary,</item>
+                  <item>Richard Chaſe,</item>
+                  <item>Owen Buckingham,</item>
+                  <item>Joſeph Scriven,</item>
+                  <item>Humphrey Thornbury.</item>
+               </list>
+               <list>
+                  <head>Bridge 15.</head>
+                  <item>Nicholas Smith, <hi>Deputy.</hi>
+                  </item>
+                  <item>Thomas Soper,</item>
+                  <item>Arthur Marſhall,</item>
+                  <item>Sackford Gunſon,</item>
+                  <item>John Cox,</item>
+                  <item>William Webſter,</item>
+                  <item>Nathanael Bromley,</item>
+                  <item>Thomas Collet,</item>
+                  <item>Jer. Wayte,</item>
+                  <item>James Eyton,</item>
+                  <item>John Weſt,</item>
+                  <item>Richard Edmondſon,</item>
+                  <item>Iſaac Brand,</item>
+                  <item>Samuel Wickens,</item>
+                  <item>John Cullum.</item>
+               </list>
+               <list>
+                  <head>Broadſtreet 10.</head>
+                  <item>John Steventon, <hi>Deputy.</hi>
+                  </item>
+                  <item>Henry Medlicott,</item>
+                  <item>John Morice,</item>
+                  <item>James Hublon,</item>
+                  <item>Samuel Clarke,</item>
+                  <item>Jeremy Edmonds,</item>
+                  <item>William Strange,</item>
+                  <item>George Cole,</item>
+                  <item>Jaſper Clutterbuck,</item>
+                  <item>Samuel Powell.</item>
+               </list>
+               <list>
+                  <head>Biſhopsgate within 10</head>
+                  <item>Thomas Langham, <hi>Deputy.</hi>
+                  </item>
+                  <item>William Pett.</item>
+                  <item>Samuel Neale,</item>
+                  <item>Robert Rowland,</item>
+                  <item>Henry Palmer,</item>
+                  <item>Henry Seames,</item>
+                  <item>Walter Coventry,</item>
+                  <item>George Bodington,</item>
+                  <item>John Utting,</item>
+                  <item>Edward Norman.</item>
+               </list>
+               <list>
+                  <head>Without 4.</head>
+                  <item>John Freeman, <hi>Deputy.</hi>
+                  </item>
+                  <item>Thomas Fyge,</item>
+                  <item>John James,</item>
+                  <item>Samuel Stringer.</item>
+               </list>
+               <list>
+                  <head>Candlewick 8.</head>
+                  <item>William Whitehall, <hi>Dep.</hi>
+                  </item>
+                  <item>William Goſvener,</item>
+                  <item>Edward Piggot,</item>
+                  <item>Samuel Tucker,</item>
+                  <item>Leonard Robinſon,</item>
+                  <item>Richard Cope,</item>
+                  <item>Edward Wills,</item>
+                  <item>Anthony Foſter.</item>
+               </list>
+               <list>
+                  <head>Caſtle-baynard 10.</head>
+                  <item>Nicholas Alexander, <hi>Dep.</hi>
+                  </item>
+                  <item>John Slyford,</item>
+                  <item>Thomas Darwin,</item>
+                  <item>
+                     <hi>Sir</hi> William Dodſon,</item>
+                  <item>Robert Bedingfeild,</item>
+                  <item>John Wright,</item>
+                  <item>
+                     <hi>Lieut. Col.</hi> Rob. Hatton.</item>
+                  <item>Thomas Templar,</item>
+                  <item>Iſarel Knowles,</item>
+                  <item>James Cooke.</item>
+               </list>
+               <list>
+                  <head>Cheap 12.</head>
+                  <item>William Withers, <hi>Deputty.</hi>
+                  </item>
+                  <item>Thomas Taylor,</item>
+                  <item>Nicholas Caplin,</item>
+                  <item>John Dowley,</item>
+                  <item>Richard Bauchamp,</item>
+                  <item>Thomas Blackmore,</item>
+                  <item>
+                     <hi>Sir</hi> Ralph Box,</item>
+                  <item>William Yates,</item>
+                  <item>John Green,</item>
+                  <item>John Harvey,</item>
+                  <item>Percival Gilborne,</item>
+                  <item>Andrew Kendrick, <hi>Dep.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Colemanſtreet 6.</head>
+                  <item>Thomas Watts, <hi>Deputy.</hi>
+                  </item>
+                  <item>Richard Scott,</item>
+                  <item>James Bedington,</item>
+                  <item>William Fazakerly,</item>
+                  <item>William Rowſe,</item>
+                  <item>William Champion.</item>
+               </list>
+               <list>
+                  <head>Cordweynors 8.</head>
+                  <item>John Railey, <hi>Deputy.</hi>
+                  </item>
+                  <item>
+                     <hi>Capt.</hi> Peter Houbton,</item>
+                  <item>Samuel Clutterbuck,</item>
+                  <item>John Baker,</item>
+                  <item>Thomas Gardner,</item>
+                  <item>Benjamin Ducane,</item>
+                  <item>John Co<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſley,</item>
+                  <item>Jacob Diſton.</item>
+               </list>
+               <list>
+                  <head>Cornhill 6.</head>
+                  <item>John Bickley, <hi>Deputy.</hi>
+                  </item>
+                  <item>Francis Brerewood,</item>
+                  <item>Thomas Abney,</item>
+                  <item>Richard Goodal,</item>
+                  <item>Thomas Collins,</item>
+                  <item>Thomas Poole.</item>
+               </list>
+               <list>
+                  <head>Cripplegate within 8.</head>
+                  <item>Lawrence Dyer, <hi>Deputy.</hi>
+                  </item>
+                  <item>Richard Chambers,</item>
+                  <item>Thomas Parrott,</item>
+                  <item>William Hall,</item>
+                  <item>Richard Levitt,</item>
+                  <item>Benjamin Whichcot</item>
+                  <item>John Fletcher,</item>
+                  <item>Lawrence Baskervill.</item>
+               </list>
+               <list>
+                  <head>Without 4.</head>
+                  <item>Thomas Rawlinſon, <hi>Dep.</hi>
+                  </item>
+                  <item>Randolph Watſon,</item>
+                  <item>Thomas Emms</item>
+                  <item>Nathan Green.</item>
+               </list>
+               <list>
+                  <head>Dowgate 8.</head>
+                  <item>John Genew, <hi>Deputy.</hi>
+                  </item>
+                  <item>William Lethieullier,</item>
+                  <item>John Clay,</item>
+                  <item>Thomas Langbridge,</item>
+                  <item>Francis Chamberlain,</item>
+                  <item>Daniel Dorvill,</item>
+                  <item>Henry Strode,</item>
+                  <item>John Broome.</item>
+               </list>
+               <list>
+                  <head>Farringdon within 15.</head>
+                  <item>Chriſtopher Foſter, <hi>Deputy.</hi>
+                  </item>
+                  <item>John Sherbrook,</item>
+                  <item>Robert Cuthbert,</item>
+                  <item>John Johnſon,</item>
+                  <item>John Adams,</item>
+                  <item>John Hatley,</item>
+                  <item>John Hardret,</item>
+                  <item>Thomas Cary,</item>
+                  <item>Robert White,</item>
+                  <item>Edward Brewſter,</item>
+                  <item>Thomas Siſſan,</item>
+                  <item>Simon Wilmot,</item>
+                  <item>John Wagſtaffe <hi>
+                        <abbr>Eſq</abbr>
+                     </hi>
+                  </item>
+                  <item>Francis Griffith,</item>
+                  <item>Lawrence French.</item>
+               </list>
+               <list>
+                  <head>Farringdon without 16.</head>
+                  <item>Paul Wicks, <hi>Deputy.</hi>
+                  </item>
+                  <item>Roger Reeve,</item>
+                  <item>John Sawyer,</item>
+                  <item>John Dutton,</item>
+                  <item>William Reeve,</item>
+                  <item>Henry Mitchell,</item>
+                  <item>Maj. Thomas Cuthbert,</item>
+                  <item>Captain Pitts,</item>
+                  <item>James Herriot,</item>
+                  <item>John Hillier,</item>
+                  <item>Robert Hichcock,</item>
+                  <item>John Sawnders, <hi>Deputy.</hi>
+                  </item>
+                  <item>Richard Gwyn,</item>
+                  <item>
+                     <hi>Capt.</hi> John Somer,</item>
+                  <item>Wither Cheyne,</item>
+                  <item>Henry Raper.</item>
+               </list>
+               <list>
+                  <head>Langborne 9.</head>
+                  <item>James Woods, <hi>Deputy.</hi>
+                  </item>
+                  <item>Auguſtin Ballow,</item>
+                  <item>Philip Scarch,</item>
+                  <item>John Marlow,</item>
+                  <item>John Pinck,</item>
+                  <item>James Fowlis,</item>
+                  <item>John Sweetapple,</item>
+                  <item>James Smith,</item>
+                  <item>Edward Leman,</item>
+                  <item>Joſeph Markes.</item>
+               </list>
+               <list>
+                  <head>Limeſtreet 4.</head>
+                  <item>George Sitwell, <hi>
+                        <abbr>Eſq</abbr> Dep.</hi>
+                  </item>
+                  <item>Richard Acton,</item>
+                  <item>Robert Maſters</item>
+                  <item>William Richardſon.</item>
+               </list>
+               <list>
+                  <head>Portſoken 5.</head>
+                  <item>William Lillingſton, <hi>Dep.</hi>
+                  </item>
+                  <item>Marmaduke Bludder,</item>
+                  <item>Anthony Palmer,</item>
+                  <item>Thomas Cole,</item>
+                  <item>Jonathan Elliott.</item>
+               </list>
+               <list>
+                  <head>Queenhith 6.</head>
+                  <item>John Tooley, <hi>Deputy.</hi>
+                  </item>
+                  <item>
+                     <hi>Capt.</hi> William Woodroffe,</item>
+                  <item>Thomas Cooper,</item>
+                  <item>Edward Aſton,</item>
+                  <item>John Roberts,</item>
+                  <item>
+                     <hi>Maj.</hi> Charles Milſon.</item>
+               </list>
+               <list>
+                  <head>Tower 12.</head>
+                  <item>James Denew, <hi>Deputy.</hi>
+                  </item>
+                  <item>
+                     <hi>Mrj.</hi> Richard Tilden,</item>
+                  <item>
+                     <hi>Sir</hi> Edward Desbovery,</item>
+                  <item>George Bearcroft,</item>
+                  <item>Daniel Templeman,</item>
+                  <item>Peter Joy,</item>
+                  <item>Thomas Shaw,</item>
+                  <item>John Moore,</item>
+                  <item>James Clement,</item>
+                  <item>Michael Preſcot,</item>
+                  <item>Edmund Sherman,</item>
+                  <item>Thomas Weſtern <hi>
+                        <abbr>Eſq</abbr>
+                     </hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Vintrey 9.</head>
+                  <item>Thomas Eyre, <hi>Deputy.</hi>
+                  </item>
+                  <item>Iſaac Gervill,</item>
+                  <item>James Collett,</item>
+                  <item>Joſhua White,</item>
+                  <item>William Ivatt <hi>
+                        <abbr>Eſq</abbr>
+                     </hi>
+                  </item>
+                  <item>John Cox,</item>
+                  <item>John Woodward,</item>
+                  <item>Edward Morice,</item>
+                  <item>Richard Hawkins.</item>
+               </list>
+               <list>
+                  <head>Wallbrooke 8.</head>
+                  <item>John Flavell, <hi>Deputy.</hi>
+                  </item>
+                  <item>John Weſtbrook,</item>
+                  <item>Gilbert Heathcote,</item>
+                  <item>John Moore,</item>
+                  <item>James Sibley,</item>
+                  <item>Daniel Brown,</item>
+                  <item>Stephen Clarke,</item>
+                  <item>George Goodday.</item>
+                  <item>In all 231.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Names of the Honourable Lieuetenancy of
+the City of London, that lately paſt the Seals.</head>
+               <list>
+                  <item>
+                     <hi>SIR</hi> Thomas Pilkington,
+<hi>Mayor.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Allen, Bar.</item>
+                  <item>
+                     <hi>Sir</hi> John Lawrence</item>
+                  <item>
+                     <hi>Sir</hi> William Turner</item>
+                  <item>
+                     <hi>Sir</hi> Robert Clayton</item>
+                  <item>
+                     <hi>Sir</hi> Patience Ward</item>
+                  <item>
+                     <hi>Sir</hi> William Prichard, <hi>Col<g ref="char:EOLhyphen"/>onel</hi>
+of the <hi>White.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> James Smith, <hi>Colonel</hi>
+of the <hi>Orange.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Jonat. Raymond, <hi>Colo<g ref="char:EOLhyphen"/>nel</hi>
+of the <hi>Green.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Peter Rich, <hi>Colonel</hi> of
+the <hi>Blew.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Kenſey, <hi>Col<g ref="char:EOLhyphen"/>onel</hi>
+of the <hi>Red.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Stamp, <hi>Colo<g ref="char:EOLhyphen"/>nel</hi>
+of the <hi>Yellow.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Jefferys</item>
+                  <item>Sir <hi>George Treby</hi> Recor<g ref="char:EOLhyphen"/>der
+for the time being.</item>
+                  <item>
+                     <hi>Sir</hi> Samuel Daſhwood</item>
+                  <item>
+                     <hi>Sir</hi> Benj. Thorowgood</item>
+                  <item>
+                     <hi>Sir</hi> William Aſhurſt</item>
+                  <item>
+                     <hi>Sir</hi> Humphrey Edwin</item>
+                  <item>
+                     <hi>Sir</hi> John Fleete</item>
+                  <item>
+                     <hi>Sir</hi> Benjamin Newland</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Fowles</item>
+                  <item>
+                     <hi>Sir</hi> John Matthews</item>
+                  <item>
+                     <hi>Sir</hi> Henry Aſhurſt Bar.</item>
+                  <item>
+                     <hi>Sir</hi> Leithelier</item>
+                  <item>
+                     <hi>Sir</hi> Peter Vandeputt</item>
+                  <item>
+                     <hi>Sir</hi> William Ruſſel</item>
+                  <item>
+                     <hi>Sir</hi> Jeremiah Sambrook</item>
+                  <item>
+                     <hi>Sir</hi> William Hedges</item>
+                  <item>
+                     <hi>Sir</hi> John Mordant Bar.</item>
+                  <item>
+                     <hi>Sir</hi> Gabriel Roberts</item>
+                  <item>
+                     <hi>Sir</hi> Francis Child,</item>
+                  <item>
+                     <hi>Sir</hi> Edward Clark</item>
+                  <item>
+                     <hi>Sir</hi> John Houbland</item>
+                  <item>
+                     <hi>Sir</hi> John Cutler</item>
+                  <item>
+                     <hi>Sir</hi> Edward Desbovery</item>
+                  <item>
+                     <hi>Sir</hi> James Ward</item>
+                  <item>
+                     <hi>Sir</hi> Robert Adams</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Vernon</item>
+                  <item>
+                     <hi>Sir</hi> Ralph Box</item>
+                  <item>
+                     <hi>Sir</hi> William Goſlyn</item>
+                  <item>
+                     <hi>Sir</hi> Chriſtopher Leithelier</item>
+                  <item>Thomas Papillion</item>
+                  <item>Joſeph Herne</item>
+                  <item>Thomas Frederick</item>
+                  <item>John Birch</item>
+                  <item>William Kiffin</item>
+                  <item>Edward Underhill</item>
+                  <item>George Sitwell</item>
+                  <item>Thomas Weſterne</item>
+                  <item>John Jolliffe</item>
+                  <item>Charles Thorold</item>
+                  <item>Nathanael Tench</item>
+                  <item>Francis Chamberlayne</item>
+                  <item>James Hudſon</item>
+                  <item>Thomas Langham</item>
+                  <item>Peter Houbland</item>
+                  <item>James Houbland</item>
+                  <item>Leonard Robinſon</item>
+                  <item>William Jarrett</item>
+                  <item>Daniel Mercer</item>
+                  <item>Andrew Kendrick</item>
+                  <item>John Flavill</item>
+                  <item>Robert Whittingham</item>
+                  <item>William Warren</item>
+                  <item>John Raylor</item>
+                  <item>Francis Gosfright</item>
+                  <item>William Scaven</item>
+                  <item>John Foach</item>
+                  <item>John Johnſon</item>
+                  <item>Samuel Powell</item>
+                  <item>Joſeph Bowles</item>
+                  <item>Abraham Weſſel</item>
+                  <item>Walter Coventry</item>
+                  <item>James Denue</item>
+                  <item>Thomas Cook, <hi>Goldſmith.</hi>
+                  </item>
+                  <item>Joſeph Scriven</item>
+                  <item>Daniel Allen</item>
+                  <item>Ralph Grange</item>
+                  <item>Robert Rawworth</item>
+                  <item>Francis Moore</item>
+                  <item>Thomas Shaw</item>
+                  <item>John Cook of <hi>Baſſiſhaw.</hi>
+                  </item>
+                  <item>William Faulknar</item>
+                  <item>James Bodington</item>
+                  <item>Henry Hatley</item>
+                  <item>John Adams</item>
+                  <item>Jeremiah Whichcott</item>
+                  <item>Perciful Gilburne</item>
+                  <item>James Chamberlain</item>
+                  <item>John Kent</item>
+                  <item>Richard Aley</item>
+                  <item>John Nicholls</item>
+                  <item>Thomas Colſon</item>
+                  <item>Nicholas Charleton</item>
+                  <item>John Midgley</item>
+                  <item>William Huſſey</item>
+                  <item>
+                     <hi>Leiut. Col.</hi> Edward Beeker</item>
+                  <item>William Gore</item>
+                  <item>William Withers</item>
+                  <item>Richard Hoare</item>
+                  <item>Jeoffery Nightinggale</item>
+                  <item>James Smith</item>
+                  <item>Joſeph Horneby</item>
+                  <item>Richard Beauchamp</item>
+                  <item>Richard Normanfell</item>
+                  <item>Joſeph Smart</item>
+                  <item>Robert Bedingfeild</item>
+                  <item>Peter Joye</item>
+                  <item>William Hooker</item>
+                  <item>John Steventon</item>
+                  <item>William Carpenter</item>
+                  <item>Arthur Barron</item>
+                  <item>William Tempeſt</item>
+                  <item>Peter Floyer</item>
+                  <item>Roger Norton</item>
+                  <item>Henry Clark</item>
+                  <item>John Genue</item>
+                  <item>John Sawyer</item>
+                  <item>Thomas Wood</item>
+                  <item>Jeofery Jeoferys</item>
+                  <item>Nathaniel Hawes</item>
+                  <item>William Strong</item>
+                  <item>John Jeofferys</item>
+                  <item>Adrian Quiney</item>
+                  <item>John Wallis</item>
+                  <item>John Coggs</item>
+                  <item>John Eaſt</item>
+                  <item>Richard Pearce</item>
+                  <item>Edmond Bolter.</item>
+                  <item>In all 129</item>
+                  <item>John Burret, <hi>Clerk.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Hide,</hi> Muſter-Maſt.</item>
+                  <item>Benjamin Leech, <hi>Meſſenger.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="price">
+            <p>Price 2 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> G. C. <hi>for</hi> Joſeph Harriſon. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
